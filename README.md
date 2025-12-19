@@ -11,4 +11,4 @@ program regularly
 -Arrays
 
 ## Goal 
-To buid a stong foundation in java for software engineering roles.
+To buid a stong foundation in java for Full Stack Developer roles.
