@@ -36,11 +36,27 @@ public class DataTypes {
     String greeting = "Hello World";
     System.out.println(greeting);
 
+    String str1 = "Universe"; // check lenght od the Strings
+    Sytem.out.println("Length of String is :" + Str1.length());
+
+    String str = "Hello";   // finding the index of characerter
+    System.out.println(str.charAt(0));  
+    System.out.println(str.charAt(4));
+
+    String txt = "Hello World";   // Modify Stringd
+    System.out.println(txt.toUpperCase());   
+    System.out.println(txt.toLowerCase()); 
+
     // Boolean Data Types (return True and False)
     int x = 10;
     int y = 9;
     int z = 8;
     System.out.println(x > y ); // true
     System.out.println(y < z);  // false
-    
-  
+
+    //Type Casting
+   double myDouble = 9.78d;
+   int myInt = (int) myDouble; 
+
+   System.out.println(myDouble); 
+   System.out.println(myInt);  
