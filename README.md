@@ -13,6 +13,7 @@ program regularly.
 ## Goal 
 To buid a stong foundation in java for Full Stack Developer roles.
 
+## Structure
 java-basics/
 │
 ├── variables/
