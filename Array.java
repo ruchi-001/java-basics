@@ -23,7 +23,7 @@ public class Array {
     }
 
 
-    //Calculate the som of array
+    //Calculate the sum of array
     int[] arr = {1, 2, 3, 4, 5};
     int sum = 0;
     for(int i = 0; i < arr.length; i++) {
